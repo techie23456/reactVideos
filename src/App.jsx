@@ -41,21 +41,22 @@ function App() {
 
       <br />
 
-      <button className="mx-2 bg-green-600 w-50 h-10 cursor-pointer"
+      <button className="mx-2 bg-black text-fuchsia-400 w-50 h-10 cursor-pointer"
       onClick={playVideo}>Play</button>
 
-      <button className="mx-2 bg-green-600 w-50 h-10 cursor-pointer"
+      <button className="mx-2 bg-black text-fuchsia-400 w-50 h-10 cursor-pointer"
       onClick={pauseVideo}>Pause</button>
 
-      <button className="mx-2 bg-green-600 w-50 h-10 cursor-pointer"
+      <button className="mx-2 bg-black text-fuchsia-400 not-only:w-50 h-10 cursor-pointer"
       onClick={stopVideo}>Stop</button> 
 
        <br></br><br></br>
 
-       <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+       <button className="mx-2 px-1 bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('EV168NQvCHc')}>Redux Tool Kit by  Yoshmita</button> 
 
-        <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+        <button className="mx-2 px-1 bg-black
+         text-fuchsia-400 w-50 h-15 cursor-pointer"
       
       // style={{
       //   backgroundColor: "blue",
@@ -67,28 +68,28 @@ function App() {
       
       onClick={() =>setVideoId('DnRY5yG67u8')}>Redux Tool Kit by Love Babbar</button> 
 
-       <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+       <button className="mx-2 px-1 bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('s-AaaDIzgQw')}>useState Hook by  Yoshmita</button> 
 
        <br></br><br></br>
 
-         <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+         <button className="mx-2 px-1  bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('MXs2qqWcGHo')}>useMemo Hook by  Love Babbar</button> 
 
-          <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+          <button className="mx-2 px-1  bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('Z7VSgQ_y0dg')}>useContext Hook by  Love Babbar</button> 
 
-           <button className="mx-2 px-1 bg-green-600 w-50 h-15 cursor-pointer"
+           <button className="mx-2 px-1  bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('_NZ5kb68IpA')}>useEffect Hook by  Love Babbar</button>
 
        <br></br><br></br>
 
 
-         <button className="mx-2 bg-green-600 w-50 h-15 cursor-pointer"
+         <button className="mx-2  bg-black text-fuchsia-400 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('Z4hN0WZbASk')}>Lifting State by Love Babbar</button>
 
 
-        <button className="mx-2 px-1 bg-green-600 w-50 h-25 cursor-pointer"
+        <button className="mx-2 px-1  bg-black text-fuchsia-400 w-50 h-25 cursor-pointer"
        onClick={()=>setVideoId('BBgSB2bLy60')}>Passing PROPS as Childrenand and Function by Love Babbar</button>
 
 
