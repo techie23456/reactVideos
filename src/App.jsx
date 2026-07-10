@@ -92,6 +92,8 @@ function App() {
         <button className="mx-2 px-1  bg-black text-fuchsia-400 w-50 h-25 cursor-pointer"
        onClick={()=>setVideoId('BBgSB2bLy60')}>Passing PROPS as Childrenand and Function by Love Babbar</button>
 
+ <button className="m-2 px-1  bg-black text-fuchsia-400 w-50 h-25 cursor-pointer"
+       onClick={()=>setVideoId('3qGQ4dGA42o')}>Mastering NEXT JS by Patel</button>
 
     </div>
   );
