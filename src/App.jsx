@@ -105,7 +105,13 @@ function App() {
  <button className="m-2 px-1  bg-black text-fuchsia-400 w-50 h-25 cursor-pointer"
        onClick={()=>setVideoId('3qGQ4dGA42o')}>Mastering NEXT JS by Patel</button>
 
+
+       <button className="m-2 px-1  bg-black text-fuchsia-400 w-50 h-25 cursor-pointer"
+       onClick={()=>setVideoId('0HMDcnZGLec')}>Tailwindcss by Code Step By Steo</button>
+
     </div>
+
+    
   );
 }
 
