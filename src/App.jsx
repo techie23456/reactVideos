@@ -28,7 +28,7 @@ function App() {
 
   return (
   <>
-     <div className="flex justify-center">
+     <div className="">
     <div>
       <YouTube
         videoId={videoId}
