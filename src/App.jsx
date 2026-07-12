@@ -127,6 +127,13 @@ function App() {
          <button className="m-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-30 cursor-pointer"
        onClick={()=>setVideoId('OjF-OwLOKYE')}>Conditional Rendering by Love Babbar</button>
 
+
+          <button className="m-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-30 cursor-pointer"
+       onClick={()=>setVideoId('VeWdk4D_xYs')}>Routing in React by Love Babbar</button>
+
+           <button className="m-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-30 cursor-pointer"
+       onClick={()=>setVideoId('lk4f5QzL41I')}>Typescript in Ract  by Yoshita</button>
+
    </div>
    </div>
 
