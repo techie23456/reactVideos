@@ -78,21 +78,21 @@ function App() {
        <button className="mx-2 px-1 bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('s-AaaDIzgQw')}>useState Hook by  Yoshmita</button> 
 
-       <br></br><br></br>
+       {/* <br></br><br></br> */}
 
 
    <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600  w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('gtHKKZJ9W-Q')}>useRef Hook by  Love Babbar</button> 
 
 
-         <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600  w-50 h-15 cursor-pointer"
+         <button className="mx-2 my-3 px-1  bg-black text-white hover:text-white hover:bg-amber-600  w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('MXs2qqWcGHo')}>useMemo Hook by  Love Babbar</button> 
 
           <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('Z7VSgQ_y0dg')}>useContext Hook by  Love Babbar</button> 
 
 
-         <br></br><br></br>
+         {/* <br></br><br></br> */}
 
            <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('_NZ5kb68IpA')}>useEffect Hook by  Love Babbar</button>
@@ -103,10 +103,10 @@ function App() {
          <button className="mx-2  bg-black text-white hover:text-white hover:bg-amber-600  w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('Z4hN0WZbASk')}>Lifting State by Love Babbar</button>
 
- <br></br><br></br>
+ {/* <br></br><br></br> */}
 
-        <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-25 cursor-pointer"
-       onClick={()=>setVideoId('BBgSB2bLy60')}>Passing PROPS as Childrenand and Function by Love Babbar</button>
+        <button className="mx-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-20 cursor-pointer"
+       onClick={()=>setVideoId('BBgSB2bLy60')}>Passing PROPS as Childrenand and Function by Babbar</button>
 
           
        
@@ -118,7 +118,7 @@ function App() {
        <button className="m-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-25 cursor-pointer"
        onClick={()=>setVideoId('0HMDcnZGLec')}>Tailwindcss by Code Step By Steo</button>
 
- <br></br><br></br>
+
 
              <button className="m-2 px-1  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-30 cursor-pointer"
        onClick={()=>setVideoId('sv8aBcmaJlg')}>Custom Hooks By Yoshita</button>
