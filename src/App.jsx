@@ -142,6 +142,10 @@ function App() {
        onClick={()=>setVideoId('w1IZDCYQBao')}>Typescript useContext Hook in Ract by Yoshita</button>
 
 
+         <button className="m-2  bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-30 cursor-pointer"
+       onClick={()=>setVideoId('AR6eQCi_Me4')}>Next JS by Chai Aur Code</button>
+
+
    </div>
    </div>
 
