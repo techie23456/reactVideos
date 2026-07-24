@@ -62,6 +62,10 @@ function App() {
        <button className="mx-2 px-1 bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
        onClick={()=>setVideoId('EV168NQvCHc')}>Redux Tool Kit by  Yoshmita</button> 
 
+
+       <button className="mx-2 px-1 bg-black text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
+       onClick={()=>setVideoId('ZP6zJLGdR8s')}>Redux Tool Kit by  Pradeep WSCubeTech</button> 
+
         <button className="mx-2 px-1 bg-black
          text-white hover:text-white hover:bg-amber-600 w-50 h-15 cursor-pointer"
       
